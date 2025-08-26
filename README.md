@@ -1,6 +1,8 @@
 # 📊 Cohort Analysis — Customer Retention & Insights  
 
-![Cohort Analysis Banner](visuals/cohort_analysis_banner.png)  
+<p align="center">
+  <img src="https://github.com/sergie-o/cohort-analysis-ironhack-payments/blob/main/651ECB65-0269-4014-9BCF-FAC3D2A46F2F.png" width="800">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  
 ![Pandas](https://img.shields.io/badge/Library-Pandas-orange.svg)  
